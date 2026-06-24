@@ -1,0 +1,6 @@
+# Laragon & IDE config
+.idea/
+.vscode/
+*.log
+Thumbs.db
+Desktop.ini
